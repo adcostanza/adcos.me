@@ -1,0 +1,76 @@
+[19-Jul-2013 01:15:12 America/New_York] PHP Fatal error:  Cannot redeclare class Mobile_Detect in /home/adam/public_html/con/Mobile_Detect.php on line 35
+[19-Jul-2013 01:15:14 America/New_York] PHP Fatal error:  Cannot redeclare class Mobile_Detect in /home/adam/public_html/con/Mobile_Detect.php on line 35
+[19-Jul-2013 01:15:47 America/New_York] PHP Fatal error:  Cannot redeclare class Mobile_Detect in /home/adam/public_html/con/Mobile_Detect.php on line 35
+[19-Jul-2013 01:32:25 America/New_York] PHP Fatal error:  Cannot redeclare class Mobile_Detect in /home/adam/public_html/con/Mobile_Detect.php on line 35
+[19-Jul-2013 01:32:38 America/New_York] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/adam/public_html/con/contact.php on line 18
+[19-Jul-2013 02:04:43 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'resume.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 4
+[19-Jul-2013 02:05:33 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'resume.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 4
+[19-Jul-2013 02:05:42 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'resume.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 4
+[19-Jul-2013 02:06:10 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'resume.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 4
+[19-Jul-2013 02:06:11 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'resume.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 4
+[19-Jul-2013 02:06:11 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'resume.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 4
+[19-Jul-2013 02:06:11 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'resume.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 4
+[21-Jul-2013 00:13:57 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/adam/public_html/con/labels.php on line 10
+[21-Jul-2013 00:14:29 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/adam/public_html/con/labels.php on line 10
+[21-Jul-2013 00:15:10 America/New_York] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/adam/public_html/con/labels.php on line 9
+[21-Jul-2013 00:15:11 America/New_York] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/adam/public_html/con/labels.php on line 9
+[21-Jul-2013 01:35:44 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/adam/public_html/con/labels.php on line 2
+[21-Jul-2013 01:35:46 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/adam/public_html/con/labels.php on line 2
+[21-Jul-2013 01:36:13 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/adam/public_html/con/labels.php on line 3
+[21-Jul-2013 01:36:42 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/adam/public_html/con/labels.php on line 3
+[21-Jul-2013 01:37:23 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/adam/public_html/con/labels.php on line 2
+[21-Jul-2013 01:37:28 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/adam/public_html/con/projects.php on line 13
+[21-Jul-2013 01:37:29 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/adam/public_html/con/projects.php on line 13
+[21-Jul-2013 01:37:32 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/adam/public_html/con/projects.php on line 13
+[21-Jul-2013 01:38:11 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/adam/public_html/con/projects.php on line 13
+[21-Jul-2013 01:38:26 America/New_York] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/adam/public_html/con/projects.php on line 21
+[21-Jul-2013 01:38:27 America/New_York] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/adam/public_html/con/projects.php on line 21
+[21-Jul-2013 01:38:34 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/adam/public_html/con/projects.php on line 13
+[21-Jul-2013 01:38:34 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/adam/public_html/con/projects.php on line 13
+[21-Jul-2013 01:38:35 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/adam/public_html/con/projects.php on line 13
+[21-Jul-2013 01:38:51 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/adam/public_html/con/projects.php on line 13
+[21-Jul-2013 01:39:03 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/adam/public_html/con/projects.php on line 24
+[21-Jul-2013 01:39:04 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/adam/public_html/con/projects.php on line 24
+[21-Jul-2013 01:39:04 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/adam/public_html/con/projects.php on line 24
+[21-Jul-2013 01:39:05 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/adam/public_html/con/projects.php on line 24
+[03-Aug-2013 17:31:39 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'resume.htm' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/mobile.php on line 9
+[04-Aug-2013 08:15:53 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'resume.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 4
+[05-Aug-2013 03:26:20 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'resume.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 4
+[06-Aug-2013 21:02:54 America/New_York] PHP Fatal error:  Call to undefined function printr() in /home/adam/public_html/con/selector.php on line 3
+[06-Aug-2013 21:02:56 America/New_York] PHP Fatal error:  Call to undefined function printr() in /home/adam/public_html/con/selector.php on line 3
+[06-Aug-2013 21:02:57 America/New_York] PHP Fatal error:  Call to undefined function printr() in /home/adam/public_html/con/selector.php on line 3
+[06-Aug-2013 21:02:57 America/New_York] PHP Fatal error:  Call to undefined function printr() in /home/adam/public_html/con/selector.php on line 3
+[06-Aug-2013 21:02:58 America/New_York] PHP Fatal error:  Call to undefined function printr() in /home/adam/public_html/con/selector.php on line 3
+[06-Aug-2013 21:02:59 America/New_York] PHP Fatal error:  Call to undefined function printr() in /home/adam/public_html/con/selector.php on line 3
+[06-Aug-2013 21:03:00 America/New_York] PHP Fatal error:  Call to undefined function printr() in /home/adam/public_html/con/selector.php on line 3
+[06-Aug-2013 21:03:01 America/New_York] PHP Fatal error:  Call to undefined function printr() in /home/adam/public_html/con/selector.php on line 3
+[06-Aug-2013 21:03:01 America/New_York] PHP Fatal error:  Call to undefined function printr() in /home/adam/public_html/con/selector.php on line 3
+[06-Aug-2013 21:14:19 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'test.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 8
+[06-Aug-2013 21:14:29 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'projects?home.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 8
+[06-Aug-2013 21:38:35 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/adam/public_html/con/nav.php on line 6
+[06-Aug-2013 21:38:37 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/adam/public_html/con/nav.php on line 6
+[07-Aug-2013 18:38:28 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'resume.htm' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/mobile.php on line 9
+[07-Aug-2013 18:38:34 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'resume.htm' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/mobile.php on line 9
+[07-Aug-2013 18:39:07 America/New_York] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/adam/public_html/con/index.php on line 48
+[07-Aug-2013 18:39:08 America/New_York] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/adam/public_html/con/index.php on line 48
+[07-Aug-2013 18:39:21 America/New_York] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/adam/public_html/con/index.php on line 54
+[07-Aug-2013 18:39:22 America/New_York] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/adam/public_html/con/index.php on line 54
+[07-Aug-2013 18:39:23 America/New_York] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/adam/public_html/con/index.php on line 54
+[07-Aug-2013 18:39:45 America/New_York] PHP Parse error:  syntax error, unexpected T_ENDIF in /home/adam/public_html/con/index.php on line 57
+[07-Aug-2013 18:52:26 America/New_York] PHP Fatal error:  Call to undefined function ae_detect_ie() in /home/adam/public_html/con/index.php on line 43
+[07-Aug-2013 18:52:33 America/New_York] PHP Fatal error:  Call to undefined function ae_detect_ie() in /home/adam/public_html/con/index.php on line 43
+[07-Aug-2013 18:53:04 America/New_York] PHP Fatal error:  Call to undefined function ae_detect_ie() in /home/adam/public_html/con/index.php on line 43
+[07-Aug-2013 18:53:24 America/New_York] PHP Fatal error:  Call to undefined function ae_detect_ie() in /home/adam/public_html/con/index.php on line 24
+[07-Aug-2013 18:53:28 America/New_York] PHP Fatal error:  Call to undefined function ae_detect_ie() in /home/adam/public_html/con/index.php on line 24
+[07-Aug-2013 18:53:43 America/New_York] PHP Fatal error:  Call to undefined function ae_detect_ie() in /home/adam/public_html/con/index.php on line 24
+[07-Aug-2013 18:53:44 America/New_York] PHP Fatal error:  Call to undefined function ae_detect_ie() in /home/adam/public_html/con/index.php on line 24
+[07-Sep-2013 19:39:05 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'submit.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 8
+[07-Sep-2013 19:39:25 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'submit.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 8
+[07-Sep-2013 19:39:52 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'submit.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 8
+[07-Sep-2013 19:39:54 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'submit.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 8
+[07-Sep-2013 19:40:01 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'submit.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 8
+[07-Sep-2013 19:40:45 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'submit.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 8
+[07-Sep-2013 20:32:42 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'submit.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 8
+[07-Sep-2013 20:32:45 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'submit.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 8
+[07-Sep-2013 20:34:44 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'submit.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 8
+[07-Sep-2013 20:34:50 America/New_York] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'submit.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adam/public_html/con/selector.php on line 8
